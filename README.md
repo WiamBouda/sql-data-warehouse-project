@@ -44,7 +44,7 @@ Architecture and modeling diagrams are available in the `docs/` directory.
 
 The Gold layer data was connected to **Power BI** via **Microsoft Fabric** to validate the analytical readiness of the warehouse.
 
-![Dashboard Power BI - Fabric](docs/dashboard_fabric.png)
+![Dashboard Power BI - Fabric](docs/dashboard_fabric.jpeg)
 
 **Key metrics visualized:**
 - Total Sales, Total Quantity, Orders Count, Average Order Value
