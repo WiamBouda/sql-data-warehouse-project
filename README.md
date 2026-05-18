@@ -3,7 +3,7 @@
 > **Project Type:** Data Engineering / Data Warehouse Implementation
 
 This project simulates a real-world data warehouse implementation for a retail company, consolidating data from two source systems an ERP and a CRM into a single analytical platform. Built using the Medallion Architecture (Bronze → Silver → Gold), it covers the full ELT pipeline: raw ingestion, data cleansing, and dimensional modeling with a star schema ready for BI consumption.
-<img width="1912" height="854" alt="image" src="https://github.com/user-attachments/assets/4c023ef5-fdc4-4123-90d6-6718649ea89f" />
+
 
 ---
 
